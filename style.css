@@ -195,13 +195,13 @@ span {
     border-top: none;
     border-right: none;
     border-left: none;
+    padding: 5px;
 }
 
 #skills ul {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 5px;
 }
 
 #projects {
